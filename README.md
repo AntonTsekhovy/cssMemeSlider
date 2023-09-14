@@ -1,1 +1,1 @@
-[#cssMemeSlider](https://AntonTsekhovy.github.io/cssMemeSlider/cssMemeSlider/index.html)
+[#cssMemeSlider](https://antontsekhovy.github.io/cssMemeSlider/index.html)
