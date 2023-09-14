@@ -104,3 +104,16 @@ body {
   border: 0.25rem solid #e3e4e6;
   background: transparent;
 }
+@media (max-width: 37.5rem) {
+  .slider__inner {
+    height: 75%;
+  }
+  .slider__buttons {
+    bottom: 13%;
+    right: 50%;
+    transform: translateX(50%);
+  }
+  .slider__text {
+    bottom: -6.25rem;
+  }
+}
